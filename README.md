@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiarbi
+- 👋 Hi, I’m @chiar11
 - 👀 I’m interested in Machine Learning models
 
 <!---
